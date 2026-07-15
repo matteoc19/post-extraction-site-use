@@ -77,7 +77,7 @@ This skill was extracted from independent research on the Permanente Quarry in S
 
 The research ran three passes. The third pass dissolved the coordination proposal it had built in the second by finding a statutory pathway that already existed, an operator who already had the information assumed to be missing, and a permitting-timeline risk that turned out to be the real finding. The skill packages the questions Pass 03 asked so they run first, not last.
 
-Full research artifact: **Live:**[permanente-quarry-proposal.vercel.app]((https://permanente-quarry-proposal.vercel.app/))
+Full research artifact: [permanente-quarry-proposal.vercel.app](https://permanente-quarry-proposal.vercel.app/)
 
 ---
 
